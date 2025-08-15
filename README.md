@@ -3,6 +3,7 @@
 
 This project analyzes screen time patterns among Indian students to understand their daily habits, study-life balance, and potential health impacts. Using Python, Pandas, NumPy, and Matplotlib, we process real or survey-based data to reveal trends and insights.
 
+
 📌 Objectives
 
 Identify average daily screen time among different age groups.
@@ -14,6 +15,7 @@ Compare screen time for educational vs entertainment purposes.
 Visualize patterns through graphs and charts.
 
 Provide insights for parents, educators, and policymakers.
+
 
 📂 Dataset
 
@@ -31,6 +33,7 @@ Purpose – Study / Entertainment / Mixed
 
 (Replace with your actual dataset details if different)
 
+
 🛠️ Tools & Libraries Used
 
 Python 🐍
@@ -43,6 +46,7 @@ Matplotlib – Data visualization
 
 Seaborn (optional) – Enhanced visual styling
 
+
 📊 Analysis & Visualizations
 
 Bar chart: Average screen time by age group
@@ -52,6 +56,8 @@ Pie chart: Purpose-wise screen usage distribution
 Line chart: Weekday vs weekend trends
 
 Correlation heatmap: Factors affecting screen time
+
+
 
 🚀 How to Run the Project
 
@@ -74,6 +80,7 @@ jupyter notebook analysis.ipynb
 
 (You can paste one of your Matplotlib charts here as an image)
 
+
 📌 Insights (Sample)
 
 Students aged 13–17 have the highest average screen time (~7 hrs/day).
@@ -81,6 +88,7 @@ Students aged 13–17 have the highest average screen time (~7 hrs/day).
 Entertainment accounts for 65% of total screen usage.
 
 Weekend screen time is 30–50% higher than weekday screen time.
+
 
 📜 License
 
